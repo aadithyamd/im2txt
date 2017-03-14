@@ -125,6 +125,11 @@ First ensure that you have installed the following required packages:
     * First install NLTK ([instructions](http://www.nltk.org/install.html)).
     * Then install the NLTK data ([instructions](http://www.nltk.org/data.html)).
 
+### Download pre-trained model
+A pre-trained model on inception-Restnet-v2 as starting point with MS COCO Data set with 200000 iteration can be downloaded [*here*](https://drive.google.com/open?id=0By4k97Inid9WaTd2YnBVOUlBV2s). Extract it to the model directory.
+
+
+
 ### Prepare the Training Data
 
 To train the model you will need to provide training data in native TFRecord
